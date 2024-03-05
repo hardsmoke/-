@@ -14,3 +14,36 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+A new Flutter project.
+
+## Берёза
+Белая берёза
+
+Под моим окном
+
+Принакрылась снегом,
+
+Точно серебром.
+
+На пушистых ветках
+
+Снежною каймой
+
+Распустились кисти
+
+Белой бахромой.
+
+И стоит берёза
+
+В сонной тишине,
+
+И горят снежинки
+
+В золотом огне.
+
+А заря, лениво
+
+Обходя кругом,
+Обсыпает ветки
+Новым серебром.
